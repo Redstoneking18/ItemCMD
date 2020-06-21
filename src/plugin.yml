@@ -1,0 +1,10 @@
+name: ItemCMD
+main: main.ItemCMDmain
+author: Redstoneking18
+version: 1.0.0
+api: ["1.0.1"]
+description: ItemCMD für Space Explorer
+permissions:
+  ItemCMD.addCMD:
+    description: "Um einen Item Command zu setzen."
+    default: op
